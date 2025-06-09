@@ -1,0 +1,6 @@
+buildozer
+PyInstaller
+pyqt6
+PySide6
+fastapi
+sqlalchemy
